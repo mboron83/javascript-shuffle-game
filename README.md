@@ -1,0 +1,1 @@
+# Simple javascript game for kids
